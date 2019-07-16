@@ -1,1 +1,1 @@
-# python-programs
+# Hackerearth Problem Solutions
