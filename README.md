@@ -1,1 +1,1 @@
-# Hackerearth Problem Solutions
+# Hackerearth and Leet code  Problem Solutions
