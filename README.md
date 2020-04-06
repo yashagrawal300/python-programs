@@ -1,1 +1,1 @@
-# Hackerearth and Leet code  Problem Solutions
+# Hackerearth, Leet code, Codechef, Hackerrank, SPOJ   Problem Solutions
