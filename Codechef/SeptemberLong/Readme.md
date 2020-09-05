@@ -11,3 +11,12 @@
 9) Move the Coins 2 - MOVCOIN2
 10) Vibrating Paths (Challenge) - VBR
 
+
+11) Chef and Sums - CHEFSUMS
+12) Move the Coins - Creating Tests - MVCN2TST
+13) Rotate the Polyline - ROTATPOL
+
+####September Long challenge codechef solutions
+####September Long challenge codechef solutions Division -1
+####September Long challenge codechef solutions Division -2
+####September Long challenge solutions
