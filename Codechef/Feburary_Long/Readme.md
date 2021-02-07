@@ -1,4 +1,4 @@
-CodeChef Feburary Long 
+CodeChef Feburary Long Solutions
 
 1) Maximise Function   MAXFUN
 2) Frog Sort   FROGS
